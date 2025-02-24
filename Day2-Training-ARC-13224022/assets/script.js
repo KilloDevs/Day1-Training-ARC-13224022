@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 rating.className = 'rating';
                 rating.innerHTML = `
                     ${product.rating}
-                    <img src="star.png" alt="Rating">
+                    <img src="assets/img/star.png" alt="Rating">
                 `;
 
                 // Append Everything
